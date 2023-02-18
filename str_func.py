@@ -9,3 +9,4 @@ def str_1():
     str = input().title()
     return str
 #что то поменял мазафака
+print('Za Vас и за Донбас')
